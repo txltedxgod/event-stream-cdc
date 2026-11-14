@@ -9,6 +9,18 @@ High-throughput, real-time Change Data Capture (CDC) streaming engine implementi
 
 ---
 
+## 🎬 Feature Demo
+
+<p align="center">
+  <img src="assets/demo.gif" alt="Event Stream CDC Feature Demo — Real-Time PostgreSQL WAL to Kafka CDC & Outbox Engine" width="840" />
+</p>
+<p align="center">
+  <sub><a href="assets/demo.mp4">Watch / Download 1080p60 MP4</a></sub>
+</p>
+
+---
+---
+
 ## 🏛️ Architecture & Dataflow
 
 ```mermaid
